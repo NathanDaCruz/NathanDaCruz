@@ -1,4 +1,4 @@
-### Hi there 👋
+### Cursando Sistemas de Informação na UNIFEBE
 
 <!--
 **NathanDaCruz/NathanDaCruz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
